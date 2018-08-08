@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ToggleView">
+        <attr name="InCircleR_T" format="dimension" />
+        <attr name="OutCircleR_T" format="dimension" />
+        <attr name="InCircleColor_T" format="color" />
+        <attr name="OutCircleColor_T" format="color" />
+
+    </declare-styleable>
+</resources>

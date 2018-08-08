@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.first.hdz.ninelock.NineGroupView
+        android:id="@+id/nine_lock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.first.hdz.ninelock.ToggleView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:InCircleColor_T="#ff00ffff"
+            app:InCircleR_T="5dp"
+            app:OutCircleColor_T="#ff888888"
+            app:OutCircleR_T="30dp" />
+
+        <com.first.hdz.ninelock.ToggleView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:InCircleColor_T="#ff00ffff"
+            app:InCircleR_T="5dp"
+            app:OutCircleColor_T="#ff888888"
+            app:OutCircleR_T="30dp" />
+
+        <com.first.hdz.ninelock.ToggleView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:InCircleColor_T="#ff00ffff"
+            app:InCircleR_T="5dp"
+            app:OutCircleColor_T="#ff888888"
+            app:OutCircleR_T="30dp" />
+
+        <com.first.hdz.ninelock.ToggleView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:InCircleColor_T="#ff00ffff"
+            app:InCircleR_T="5dp"
+            app:OutCircleColor_T="#ff888888"
+            app:OutCircleR_T="30dp" />
+
+        <com.first.hdz.ninelock.ToggleView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:InCircleColor_T="#ff00ffff"
+            app:InCircleR_T="5dp"
+            app:OutCircleColor_T="#ff888888"
+            app:OutCircleR_T="30dp" />
+
+        <com.first.hdz.ninelock.ToggleView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:InCircleColor_T="#ff00ffff"
+            app:InCircleR_T="5dp"
+            app:OutCircleColor_T="#ff888888"
+            app:OutCircleR_T="30dp" />
+
+        <com.first.hdz.ninelock.ToggleView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:InCircleColor_T="#ff00ffff"
+            app:InCircleR_T="5dp"
+            app:OutCircleColor_T="#ff888888"
+            app:OutCircleR_T="30dp" />
+
+        <com.first.hdz.ninelock.ToggleView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:InCircleColor_T="#ff00ffff"
+            app:InCircleR_T="5dp"
+            app:OutCircleColor_T="#ff888888"
+            app:OutCircleR_T="30dp" />
+
+        <com.first.hdz.ninelock.ToggleView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            app:InCircleColor_T="#ff00ffff"
+            app:InCircleR_T="5dp"
+            app:OutCircleColor_T="#ff888888"
+            app:OutCircleR_T="30dp" />
+    </com.first.hdz.ninelock.NineGroupView>
+</android.support.constraint.ConstraintLayout>
